@@ -1,4 +1,4 @@
-# midtern_note_app
+# midterm_note_app
 This app is called "My Phubbing Note", an app made for making note easily when you get some information in your everyday life. 
 ## How to build
 1. git clone https://github.com/chiajoukuo/midterm_note_app.git

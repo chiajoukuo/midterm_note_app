@@ -1,0 +1,22 @@
+.cards {
+    padding: 1px 8px;
+}
+.hd {
+    text-align: center;
+    color: rgb(142, 96, 214);
+}
+.hd:link {
+    color: rgb(142, 96, 214);
+}
+.hd:visited {
+    color: rgb(87, 15, 204);
+}
+.hd:hover {
+    color: rgb(158, 77, 212);
+}
+.hd:active {
+    color: rgb(173, 15, 204);
+}
+.top{
+    
+}

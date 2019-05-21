@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(50, 4, 218);
+}
+
+body {
+  
+  margin: auto;
+  height: 100%;
+  /*
+  background: -webkit-linear-gradient(rgb(233, 216, 243), rgb(167, 202, 236));
+  background: -o-linear-gradient(rgb(233, 216, 243), rgb(167, 202, 236));
+  background: -moz-linear-gradient(rgb(233, 216, 243), rgb(167, 202, 236));
+  background: linear-gradient(rgb(233, 216, 243), rgb(167, 202, 236));
+  */
+  /*background: rgb(240, 232, 245)(37, 37, 37);*/
+  background: rgb(240, 232, 245);
+
+  background-size: cover;
+}

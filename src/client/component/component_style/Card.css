@@ -1,0 +1,19 @@
+.card {
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 26.3%;
+    border-radius: 5px;
+    float:left;
+    padding:3%;
+    background: rgb(205, 199, 240);
+    margin:0.5%;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background: rgb(186, 177, 236);
+}
+.lines {
+    padding: 5px 1px;
+}
+  

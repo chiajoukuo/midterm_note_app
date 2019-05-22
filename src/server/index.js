@@ -19,7 +19,7 @@ const serverSocket = require('socket.io')(http)
 http.listen(port, () => {
   console.log(`Server listening on port ${port}.`)
 })
-mongoose.connect('mongodb+srv://HannahKuo:lollipop06@cluster0-rd0mb.mongodb.net/test?retryWrites=true', {
+mongoose.connect('mongodb+srv://HannahKuo:Mid123@cluster0-siqgd.mongodb.net/test?retryWrites=true', {
     useNewUrlParser: true
 })
 db = mongoose.connection
